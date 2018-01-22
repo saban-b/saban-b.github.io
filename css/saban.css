@@ -47,3 +47,8 @@ body {
 .top-buffer {
 	margin-top:50px;
 	}
+	
+	a {
+    color: black;
+	text-shadow: 1px 1px 1px white;
+}
